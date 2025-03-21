@@ -1,2 +1,2 @@
 # ZCOVER_PUBLIC
-ZCOVER Public repository
+ZCOVER Public Repository
