@@ -5,6 +5,11 @@
 ZCOVER is an approach for uncovering Z-Wave controller vulnerabilities through systematic security analysis of application layer implementation.
 ZCOVER found flaws in  major Z-Wave controllers. These vulnerabilities allow an attacker to inject malicious Z-Wave packets that can manipulate controllers' internal memory and functionality causing a denial-of-service (DoS) on smart home system. A DoS on the Z-Wave controller can disable intrusion and event notifications to the remote house owner resulting in illegal house access without the security systems being activated.
 
+ZCOVER-Public is distributed in the hope that it will be useful to researchers, but WITHOUT ANY WARRANTY; hence, be responsible while using ZCOVER-Public.
+
+We recommend testing ONLY your PERSONAL DEVICES in a CLOSED CONTROLLED environment to avoid jamming 908 MHz or ANY frequency that is used for different purpose per COUNTRY. It may be ILLEGAL to send packets in reserved frequencies without a prior POLICE or Government AUTHORIZATION.
+
+
 ## For the academic/public use, the researcher MUST cite the following paper:
 
 1. C.K. Nkuba, J. Kang, S. Woo, and H. Lee, "ZCOVER: Uncovering Z-Wave Controller Vulnerabilities Through Systematic Security Analysis of Application Layer Implementation", The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2025), 2025.
