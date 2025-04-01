@@ -49,7 +49,8 @@ ZCOVER has two options.
 
 
 ### 1. "--p" option
-If you don't know the homeID and nodeID of the controller, use this option for passive scanning.
+If you don't know the homeID and nodeID of the controller, use this option for passive scanning. 
+Create traffic in your Z-Wave network so that ZCover can sniff key properties.
 
 ```
 python ./Main.py --p
