@@ -14,6 +14,8 @@ We recommend testing ONLY your PERSONAL DEVICES in a CLOSED CONTROLLED environme
 
 1. C.K. Nkuba, J. Kang, S. Woo, and H. Lee, "ZCOVER: Uncovering Z-Wave Controller Vulnerabilities Through Systematic Security Analysis of Application Layer Implementation", The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2025), 2025.
 
+## Source Code and libraries requirement
+Additional README file is available in ZCOVER_Main folder describing the source code details and library requirement.
 
 ## Vulnerability description
 
@@ -56,8 +58,7 @@ It can be accessible after creating a free account at: https://community.silabs.
 
 All Z-Wave device manufacturers and members of the Z-Wave Alliance (e.g., ADT Inc, Aeotec, Amazon, Dome Home Automation, Fibaro, Google, Jasco, Linear, Philips Electronics, Philips Healthcare, Samsung SmartThings, Schlage, Yale, Silicon Labs, Smartthings, LG, Zooz, etc.)
 
-### Source Code and libraries requirement
-Additional README file is available in ZCOVER_Main folder describing the source code details and libraries requirement.
+
 
 ### Additional Information
 
