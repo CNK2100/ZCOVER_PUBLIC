@@ -21,7 +21,7 @@ Additional README file is available in ZCOVER_Main folder describing the source 
 
 Denial of Service (DoS) vulnerabilities in Z-Wave chipsets. These vulnerabilities may allow a remote, unauthenticated attacker to inject malicious packets to the Z-Wave controller to cause DoS.
 
-### CVSS Severity: High
+#### CVSS Severity: High
 
 ## Discoverer
 
