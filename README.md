@@ -15,13 +15,13 @@ We recommend testing ONLY your PERSONAL DEVICES in a CLOSED CONTROLLED environme
 1. C.K. Nkuba, J. Kang, S. Woo, and H. Lee, "ZCOVER: Uncovering Z-Wave Controller Vulnerabilities Through Systematic Security Analysis of Application Layer Implementation", The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2025), 2025.
 
 
-### Vulnerability description
+## Vulnerability description
 
 Denial of Service (DoS) vulnerabilities in Z-Wave chipsets. These vulnerabilities may allow a remote, unauthenticated attacker to inject malicious packets to the Z-Wave controller to cause DoS.
 
 ### CVSS Severity: High
 
-### Discoverer
+## Discoverer
 
 Thanks to Dr. Carlos Kayembe Nkuba, Jimin Kang, Professor Seunghoon Woo, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
 
