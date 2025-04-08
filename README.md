@@ -81,15 +81,11 @@ The range can be increased by using an advanced Software-Defined Radio (SDR) har
 
 Denial of service (DoS) on Z-Wave controller.
 
-### Vendor of Product
 
-Silicon Labs ( SiLabs) Z-Wave chipset, which is  present in ALL Z-Wave controller from all the manufacturers worlwide. All members of the Z-Wave Alliance are affected (e.g., ADT Inc, Aeotec, Amazon, Dome Home Automation, Fibaro, Google, Jasco, Linear, Philips Electronics, Philips Healthcare, Samsung SmartThings, Schlage, Yale, Silicon Labs, Smartthings, LG, Zooz, etc.)
+### Attack Vectors
 
+By crafting a malicious Z-Wave packet and sending it to the Z-Wave controller and devices. 
 
-### Affected Product Code Base
-
-Z Wave controllers with Silicon Labs Chipset
- 
 ### Attack Type
 
 Proximate remote attack
@@ -99,12 +95,17 @@ Proximate remote attack
 Denial of Service on the controller.
 
 
-### Attack Vectors
+## Vendor of Product
 
-By crafting a malicious Z-Wave packet and sending it to the Z-Wave controller and devices.  
+Silicon Labs ( SiLabs) Z-Wave chipset, which is  present in ALL Z-Wave controller from all the manufacturers worlwide. All members of the Z-Wave Alliance are affected (e.g., ADT Inc, Aeotec, Amazon, Dome Home Automation, Fibaro, Google, Jasco, Linear, Philips Electronics, Philips Healthcare, Samsung SmartThings, Schlage, Yale, Silicon Labs, Smartthings, LG, Zooz, etc.)
 
 
-### Fix/Workaround Method
+### Affected Product Code Base
+
+Z Wave controllers with Silicon Labs Chipset
+
+
+## Fix/Workaround Method
 
 Check SiLabs Security Advisory A-00000502
 
@@ -114,7 +115,7 @@ Check SiLabs Security Advisory A-00000505
 
 It can be accessible after creating a free account at: https://community.silabs.com/s/contentdocument/069Vm000002020u
 
-### Reference
+## Reference
 
 - https://ccs.korea.ac.kr/pds/Vulnerabilities_in_ZWave.html
 - https://github.com/CNK2100/2024-CVE/blob/main/README.md
