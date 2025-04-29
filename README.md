@@ -15,7 +15,7 @@ We recommend testing ONLY your PERSONAL DEVICES in a CLOSED CONTROLLED environme
 1. C.K. Nkuba, J. Kang, S. Woo, and H. Lee, "ZCOVER: Uncovering Z-Wave Controller Vulnerabilities Through Systematic Security Analysis of Application Layer Implementation", The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2025), 2025.
 
 ## Source Code and libraries requirement
-Additional README file is available in ZCOVER_Main folder describing the source code details and library requirement.
+Additional README file is available in ZCOVER_ALL_STEPS folder describing the source code details and library requirement.
 
 ## Vulnerability description
 
