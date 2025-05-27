@@ -18,12 +18,11 @@ or Any sub-gigahertz dongle supporting RFCat library.
 
 ## Requirements: Python 2.7 due to RFCAT library
 
+### ON UBUNTU 18
 ```
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install python  ## For Python 2
-sudo apt install python2  ## Ubuntu 20
-sudo python2 get-pip.py  ## Ubuntu 20
 sudo apt-get install libusb-1.0-0-dev
 sudo apt-get install python-pip
 sudo apt install python-usb libusb-1.0.0 make
@@ -39,7 +38,15 @@ pip install psutil
 pip install requests
 sudo apt install sdcc
 ```
+### ON UBUNTU 20
 
+```
+sudo apt install python2  ## Ubuntu 20
+sudo python2 get-pip.py  ## Ubuntu 20
+pip2 install requests numpy bitstring psutil pandas iphyton pyside2
+pip2 install graphviz pydot ng libusb setuptools wheel
+
+```
 ## Installation 
 >Install RFCAT at https://github.com/atlas0fd00m/rfcat
 
