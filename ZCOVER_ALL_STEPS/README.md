@@ -49,6 +49,13 @@ pip2 install graphviz pydot ng libusb setuptools wheel
 ```
 ## Installation 
 >Install RFCAT at https://github.com/atlas0fd00m/rfcat
+>
+>Download the file
+>Unzip
+```
+cd rfcat-master
+sudo python2 setup.py install
+```
 
 
 
